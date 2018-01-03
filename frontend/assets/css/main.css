@@ -1,0 +1,41 @@
+
+.price{
+    float:left;
+}
+.buyButton {
+    float:right;
+
+}
+
+.commitButton{
+    
+}
+
+.taskIcon{
+    height:5em;
+    width:4.5em;
+    float:left;
+    padding-top:2.5em;
+}
+
+.taskListTask{
+    font-size: 1em;
+}
+
+.productList {
+    display: inline-block;
+}
+.productBox {
+    list-style-type: none;
+}
+
+.profileFace{
+    padding-left:2em;
+    width:75%;
+    height:75%;
+}
+
+.walletBox{
+    outline-color: #18bc9c;
+    outline-width:1px;
+}
